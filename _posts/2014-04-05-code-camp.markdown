@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Code Camp is Awesome"
-date:   2014-04-05 16:10:12
+title: "Code Camp is Awesome and Prose.io is too!!!"
+date: {}
 categories: jekyll update
 banner: blogging.jpg
+published: true
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
