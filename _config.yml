@@ -1,0 +1,4 @@
+name: Andy Harl
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/

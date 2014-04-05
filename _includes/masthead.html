@@ -1,0 +1,9 @@
+<header id="masthead" class="clearfix">
+    <div class="logo"><img src="/img/logo.png" alt="Andy Harl's Logo"></div>
+    <h1 class="site-title">Andy Harl</h1>
+    <ul class="site-links">
+        {% for link in site.data.navigation %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+    </ul>
+</header>
