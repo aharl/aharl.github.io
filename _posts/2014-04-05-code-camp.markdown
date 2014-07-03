@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Camp is Awesome and Prose.io is too!!!"
-date: {}
+date: 2014-04-02 10:36:11
 categories: jekyll update
 banner: blogging.jpg
 published: true
